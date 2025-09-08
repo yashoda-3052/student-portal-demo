@@ -1,0 +1,7 @@
+Name:P Yashoda
+Course:Bsc Computer Science
+Year:2023-2026
+SUC:2342230062
+Roll No:35
+Languages Known:Telugu,English
+Average : 8.34
